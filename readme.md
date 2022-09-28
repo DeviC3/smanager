@@ -1,7 +1,7 @@
 
 # SystemManager
 
-SystemManager is an application which can be used for do things faster with Your machine/server/other Unix like OS
+SystemManager is an application which can be used for do things easier with Your machine/server/other Unix like OS
 
 ## Functions
 
@@ -12,14 +12,20 @@ There are few application modes which can be used for managing
 - mysql - fast and easy MySQL managing (dump and restore)
 - networking    - nmap/curl like requests
 
-More documentation is released on [Docs file](https://github.com)
+More documentation is released on [Docs file](https://github.com/DeviC3/smanager/blob/main/docs.md)
 ----
 
 # Installing
 
 You can use it from source but there is prepared a exec file
 ```
-wget https://github.com/DeviC3/smanager/blob/main/mainapp
+wget https://github.com/DeviC3/smanager/blob/main/smanager
+```
+
+Install this to Your ```bin``` path
+```
+ln -s /path/smanager /bin/smanager
+path - is full path where You downloaded smanager i.e. /usr/local/smanager
 ```
 
 ## Future releases
