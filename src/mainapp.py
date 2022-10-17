@@ -1,4 +1,4 @@
-from coreapp import CoreCommands
+from core_commands import CoreCommands
 
 __version__ = '0.1'
 

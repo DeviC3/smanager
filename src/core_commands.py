@@ -1,9 +1,9 @@
 from cmd import Cmd
-from basiccommands import *
-from filemode import *
-from pidmode import *
-from mysqlmode import *
-from networkmode import *
+from user_commands import *
+from file_mode import *
+from pid_mode import *
+from mysql_mode import *
+from network_mode import *
 
 class CoreCommands(Cmd, UserCommands):
     
