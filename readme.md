@@ -19,7 +19,7 @@ More documentation is released on [Docs file](https://github.com/DeviC3/smanager
 
 You can use it from source but there is prepared a exec file
 ```
-wget https://github.com/DeviC3/smanager/blob/main/smanager
+wget https://github.com/DeviC3/smanager/raw/main/smanager
 ```
 
 Install this to Your ```bin``` path
